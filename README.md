@@ -1,4 +1,4 @@
-# 👨‍💻 Higor Soares
+# 👨‍💻 Leandro Dubinski
 
 **`Desenvolvedor FullStack`**
 
